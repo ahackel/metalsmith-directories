@@ -1,0 +1,20 @@
+{
+  "version": "0.0.1",
+  "name": "metalsmith-directories",
+  "description": "A metalsmith plugin that adds parent and children metadata based on file hierarchy.",
+  "author": {
+    "name": "Andreas Hackel",
+    "email": "mail@andreashackel.de",
+    "url": "www.andreashackel.de"
+  },
+  "main": "src/index.js",
+  "homepage": "https://github.com/ahackel/metalsmith-directories",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahackel/metalsmith-directories"
+  },
+   "dependencies": {
+    "debug": "~0.7.4",
+    "minimatch": "^0.2.14"
+  }
+}
